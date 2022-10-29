@@ -6,7 +6,7 @@ This project is designed to use the cross-platform Vulkan Graphics API. This is 
 * Vulkan SDK
 * ImGui (Docking Branch)
 * GLFW
-* GLM
+* GLM (Installable through the Vulkan SDK)
 
 ## Setup Commands
 * Vulkan Tools: 
@@ -34,4 +34,15 @@ Use the command "make" to make the project. You can then run ./ExecutableName to
   * To clean the project, run "make clean"
 
 ## Helpful Resources
-https://vulkan-tutorial.com/
+* CPP Resources
+  * https://www.learncpp.com/ 
+
+* Math Resources
+  * https://www.3blue1brown.com/ 
+
+* Vulkan Resources
+  * Online Text Resources
+    * https://vulkan-tutorial.com/
+    * https://registry.khronos.org/vulkan/#apispecs 
+  * Tutorial Videos: 
+    * https://www.youtube.com/c/BrendanGalea/videos 
